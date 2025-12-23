@@ -34,3 +34,9 @@ For this dataset, there were 8523 rows and 12 columns.
 </p>
 
 This histogram shows that the majority of the item outlet sales are around 2,000.
+
+ ### Expanatory Data Analysis
+    - To visualize the data for explantory purposes, three bargraphs were chosen and one linegraph was chosen.
+    - The bargraphs were chosen to show how the categories compare to each other. 
+    - Finally, a linegraph was chosen to show the trend of itwm outlet sales over the past three years. 
+
