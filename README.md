@@ -40,3 +40,10 @@ This histogram shows that the majority of the item outlet sales are around 2,000
     - The bargraphs were chosen to show how the categories compare to each other. 
     - Finally, a linegraph was chosen to show the trend of itwm outlet sales over the past three years. 
 
+## Explanatory Visuals
+
+<p align = "center"> 
+  <img src = "">
+</p>
+
+
